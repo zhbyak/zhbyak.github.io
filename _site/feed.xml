@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-02T15:21:17+08:00</updated><id>/</id><title>Your Username</title><subtitle>Programmer From Somewhere On Earth</subtitle><entry><title>The Eternal Lorem Ipsum Placeholder Text Here</title><link href="/test-blog/" rel="alternate" type="text/html" title="The Eternal Lorem Ipsum Placeholder Text Here" /><published>2017-08-01T00:00:00+08:00</published><updated>2017-08-01T00:00:00+08:00</updated><id>/test-blog</id><content type="html" xml:base="/test-blog/">&lt;p&gt;123&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;软件篇&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;sublime 方便的文件修改软件
+    &lt;ul&gt;
+      &lt;li&gt;webstorm 前端项目ide&lt;/li&gt;
+      &lt;li&gt;visual studio code :nodejs ide,方便debug&lt;/li&gt;
+      &lt;li&gt;SourceTree 代码管理&lt;/li&gt;
+      &lt;li&gt;Charles 抓包&lt;/li&gt;
+      &lt;li&gt;iTerm 命令行工具&lt;/li&gt;
+      &lt;li&gt;Macdown markdown客户端&lt;/li&gt;
+      &lt;li&gt;Alfred 好用的打开工具(推荐)&lt;/li&gt;
+      &lt;li&gt;iHosts  host可视化管理便捷工具&lt;/li&gt;
+      &lt;li&gt;lantern 科学上网&lt;/li&gt;
+      &lt;li&gt;MySQLWorkbench&lt;/li&gt;
+      &lt;li&gt;Robomongo&lt;/li&gt;
+      &lt;li&gt;Sketch&lt;/li&gt;
+      &lt;li&gt;VMware Fusion 虚拟机&lt;/li&gt;
+      &lt;li&gt;XMind&lt;/li&gt;
+      &lt;li&gt;Go2Shell 从finder目录打开terminal http://zipzapmac.com/Go2Shell&lt;/li&gt;
+      &lt;li&gt;path finder 好用的finder工具 https://cocoatech.com/&lt;/li&gt;
+      &lt;li&gt;最好的json接口(GET)&lt;/li&gt;
+      &lt;li&gt;http://httpbin.org/  测试GET/POST请求,你向他发送GET/POST请求 他返回你他收到的GET/POST请求内容&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;chrome&quot;&gt;chrome插件篇&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Axure RP Extension for Chrome 原型图查看
+    &lt;ul&gt;
+      &lt;li&gt;JSON Viewer&lt;/li&gt;
+      &lt;li&gt;Octotree :  Code tree for GitHub&lt;/li&gt;
+      &lt;li&gt;Postman&lt;/li&gt;
+      &lt;li&gt;草料二维码 二维码生成工具&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;网站篇&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;http://www.alfredworkflow.com/
+    &lt;ul&gt;
+      &lt;li&gt;http://www.baiten.cn/   http://www2.soopat.com/Home/Index 专利查询&lt;/li&gt;
+      &lt;li&gt;https://www.processon.com/ 在线uml图&lt;/li&gt;
+      &lt;li&gt;python2 爬虫入门教程 http://cuiqingcai.com/1052.html&lt;/li&gt;
+      &lt;li&gt;https://www.tensorflow.org/ http://www.tensorfly.cn/ 神经网络&lt;/li&gt;
+      &lt;li&gt;https://regex101.com/  正则表达式&lt;/li&gt;
+      &lt;li&gt;https://huaban.com/ 花瓣 视觉设计图 使用QQ授权登录&lt;/li&gt;
+      &lt;li&gt;http://699pic.com/ 摄图网 可以免费下载好的设计图 1天一张 -。-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Author Name</name></author><summary>123</summary></entry><entry><title>The Eternal Lorem Ipsum Placeholder Text Here</title><link href="/Eternal-Lorem-Ipsum/" rel="alternate" type="text/html" title="The Eternal Lorem Ipsum Placeholder Text Here" /><published>2016-03-12T00:00:00+08:00</published><updated>2016-03-12T00:00:00+08:00</updated><id>/Eternal-Lorem-Ipsum</id><content type="html" xml:base="/Eternal-Lorem-Ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-eternal-lorem-ipsum&quot;&gt;The Eternal Lorem Ipsum?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.&lt;/p&gt;
+
+&lt;p&gt;Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.&lt;/p&gt;</content><author><name>Author Name</name></author><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.</summary></entry><entry><title>The Eternal Lorem Ipsum Placeholder Text Here</title><link href="/Eternal-Lorem-Ipsum/" rel="alternate" type="text/html" title="The Eternal Lorem Ipsum Placeholder Text Here" /><published>2016-03-11T00:00:00+08:00</published><updated>2016-03-11T00:00:00+08:00</updated><id>/Eternal-Lorem-Ipsum</id><content type="html" xml:base="/Eternal-Lorem-Ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-eternal-lorem-ipsum&quot;&gt;The Eternal Lorem Ipsum?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.&lt;/p&gt;
+
+&lt;p&gt;Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.&lt;/p&gt;</content><author><name>Author Name</name></author><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.</summary></entry><entry><title>The Eternal Lorem Ipsum Placeholder Text Here</title><link href="/Eternal-Lorem-Ipsum/" rel="alternate" type="text/html" title="The Eternal Lorem Ipsum Placeholder Text Here" /><published>2016-03-10T00:00:00+08:00</published><updated>2016-03-10T00:00:00+08:00</updated><id>/Eternal-Lorem-Ipsum</id><content type="html" xml:base="/Eternal-Lorem-Ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-eternal-lorem-ipsum&quot;&gt;The Eternal Lorem Ipsum?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.&lt;/p&gt;
+
+&lt;p&gt;Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.&lt;/p&gt;</content><author><name>Author Name</name></author><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.</summary></entry><entry><title>The Eternal Lorem Ipsum Placeholder Text Here</title><link href="/Eternal-Lorem-Ipsum/" rel="alternate" type="text/html" title="The Eternal Lorem Ipsum Placeholder Text Here" /><published>2016-03-09T00:00:00+08:00</published><updated>2016-03-09T00:00:00+08:00</updated><id>/Eternal-Lorem-Ipsum</id><content type="html" xml:base="/Eternal-Lorem-Ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-eternal-lorem-ipsum&quot;&gt;The Eternal Lorem Ipsum?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.&lt;/p&gt;
+
+&lt;p&gt;Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.&lt;/p&gt;</content><author><name>Author Name</name></author><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.</summary></entry><entry><title>The Eternal Lorem Ipsum Placeholder Text Here</title><link href="/Eternal-Lorem-Ipsum/" rel="alternate" type="text/html" title="The Eternal Lorem Ipsum Placeholder Text Here" /><published>2016-03-08T00:00:00+08:00</published><updated>2016-03-08T00:00:00+08:00</updated><id>/Eternal-Lorem-Ipsum</id><content type="html" xml:base="/Eternal-Lorem-Ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-eternal-lorem-ipsum&quot;&gt;The Eternal Lorem Ipsum?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.&lt;/p&gt;
+
+&lt;p&gt;Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.&lt;/p&gt;</content><author><name>Author Name</name></author><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.</summary></entry><entry><title>first</title><link href="/Eternal-Lorem-Ipsum/" rel="alternate" type="text/html" title="first" /><published>2016-03-06T00:00:00+08:00</published><updated>2016-03-06T00:00:00+08:00</updated><id>/Eternal-Lorem-Ipsum</id><content type="html" xml:base="/Eternal-Lorem-Ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-eternal-lorem-ipsum&quot;&gt;The Eternal Lorem Ipsum?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.&lt;/p&gt;
+
+&lt;p&gt;Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolo&lt;/p&gt;</content><author><name>zhbyak</name></author><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.</summary></entry></feed>
