@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: #AB47BC;
+  color: #5CACEE;
 }
 h1 a {
   color: inherit;
@@ -100,7 +100,7 @@ h1 a {
 
 h2 {
   font-size: 24px;
-  color: #AB47BC;
+  color: #5CACEE;
 }
 
 h3 {
@@ -696,10 +696,10 @@ code {
 }
 
 .post a {
-  color: #AB47BC;
+  color: #5CACEE;
 }
 .post a:hover {
-  color: #682a73;
+  color: #167bce;
 }
 
 .post-heading a {
@@ -743,9 +743,9 @@ button:focus {
 
 .button.button-primary,
 button.button-primary {
-  color: #AB47BC;
+  color: #5CACEE;
   background-color: transparent;
-  border-color: #AB47BC;
+  border-color: #5CACEE;
 }
 
 .button.button-primary:hover,
@@ -753,8 +753,8 @@ button.button-primary:hover,
 .button.button-primary:focus,
 button.button-primary:focus {
   color: #FFF;
-  background-color: #AB47BC;
-  border-color: #AB47BC;
+  background-color: #5CACEE;
+  border-color: #5CACEE;
 }
 
 /*
@@ -762,7 +762,7 @@ button.button-primary:focus {
 */
 .intro-header {
   border-top: 5px solid white;
-  background-color: #AB47BC;
+  background-color: #5CACEE;
 }
 
 .intro-header .post-heading {
@@ -802,11 +802,11 @@ button.button-primary:focus {
     
 */
 .svg-icon a {
-  color: #8a3898;
+  color: #2e94e9;
   cursor: pointer;
 }
 .svg-icon a:hover {
-  color: #682a73;
+  color: #167bce;
 }
 
 /*
@@ -925,7 +925,7 @@ button.button-primary:focus {
 
 .ch-info p a {
   display: block;
-  color: #AB47BC;
+  color: #5CACEE;
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
@@ -936,7 +936,7 @@ button.button-primary:focus {
 }
 
 .ch-info p a:hover {
-  color: #8a3898;
+  color: #2e94e9;
 }
 
 .ch-item:hover .ch-info-front {

@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: 平谦
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: 在全栈的路上一路飞奔~~~
 
 
 #
@@ -16,15 +16,15 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: zhbyak_whu@163.com
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: zhbyak
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: Zhbyak47
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/test-blog/</loc>
+<loc>/%25E7%25B3%25BB%25E7%25BB%259F%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E9%2583%25A8%25E7%25BD%25B2/</loc>
 <lastmod>2017-08-01T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/Eternal-Lorem-Ipsum/</loc>
-<lastmod>2016-03-12T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/Eternal-Lorem-Ipsum/</loc>
-<lastmod>2016-03-11T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/Eternal-Lorem-Ipsum/</loc>
-<lastmod>2016-03-10T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/Eternal-Lorem-Ipsum/</loc>
-<lastmod>2016-03-09T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/Eternal-Lorem-Ipsum/</loc>
-<lastmod>2016-03-08T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/Eternal-Lorem-Ipsum/</loc>
-<lastmod>2016-03-06T00:00:00+08:00</lastmod>
+<loc>/iOS%25E5%25BC%2580%25E5%258F%2591%25E5%25BF%2585%25E5%25A4%2587%25E5%25B7%25A5%25E5%2585%25B7%25E5%2592%258C%25E7%25BD%2591%25E7%25AB%2599/</loc>
+<lastmod>2017-08-01T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/404/</loc>

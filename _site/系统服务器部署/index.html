@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>系统服务部署 – 平谦 – 在全栈的路上一路飞奔~~~</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="拿到一台申请的服务器 需要对服务器各种东西进行部署
+curl下载命令 curl -o [filename] 
+curl -O  默认文件名
+解压 tar -xvzf ruby-2.2.3.tgz
+
+" />
+    <meta property="og:description" content="拿到一台申请的服务器 需要对服务器各种东西进行部署
+curl下载命令 curl -o [filename] 
+curl -O  默认文件名
+解压 tar -xvzf ruby-2.2.3.tgz
+
+" />
+    
+    <meta name="author" content="平谦" />
+
+    
+    <meta property="og:title" content="系统服务部署" />
+    <meta property="twitter:title" content="系统服务部署" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="平谦 - 在全栈的路上一路飞奔~~~" href="/feed.xml" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+  </head>
+
+  <body>
+    
+    
+    <div class="intro-header">    
+      <div class="container">
+        <div class="post-heading">
+            <h1>系统服务部署</h1>
+            <span class="meta">Posted by <a href="/about"> 平谦
+            </a> on August  1, 2017
+            <a style="margin-left:8px" href="/"> 返回博客首页</a>
+            </span>
+        </div>
+            
+      </div>
+    </div>
+    
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+ <div class="space-extra-small">
+ </div>
+
+  <div class="entry">
+    <p>拿到一台申请的服务器 需要对服务器各种东西进行部署<br />
+curl下载命令 curl -o [filename] <url>
+curl -O <url> 默认文件名
+解压 tar -xvzf ruby-2.2.3.tgz</url></url></p>
+
+<p>nvm 可以管理ruby和node的版本 <br />
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.2/install.sh | bash</p>
+
+<p>npm 下载tnpm<br />
+npm install -g tnpm –registry=http://registry.npm.alibaba-inc.com<br />
+\curl -sSL https://get.rvm.io | bash -s stable</p>
+
+<p>|是管道操作符。<br />
+用来连接两个命令，将前一个命令的输出作为后一个命令的输入。</p>
+
+<p>1.看机器系统和版本<br />
+cat /proc/version<br />
+2.wget 和 gem brew <br />
+yum<br />
+Yum（全称为 Yellow dog Updater, Modified）是一个在Fedora和RedHat以及CentOS中的<a href="http://baike.baidu.com/view/849.htm">Shell</a>前端软件包管理器。基于<a href="http://baike.baidu.com/view/209700.htm">RPM</a>包管理，能够从指定的服务器自动下载RPM包并且安装，可以自动处理依赖性关系，并且一次安装所有依赖的软件包，无须繁琐地一次次下载、安装</p>
+
+<p>linux机器自带ruby和gem, gem 是ruby的包管理托管平台,类似于npm和tnpm <br />
+主页:https://rubygems.org/gem<br />
+但是国外的资源文件经常会链接失败,所以经常gem install和bundle install失败.<br />
+所以还是使用淘宝镜像:<br />
+$ gem sources –remove https://rubygems.org/<br />
+$ gem sources -a https://ruby.taobao.org/<br />
+$ gem sources -l<br />
+安装bundler<br />
+sudo gem install bundler</p>
+
+  </div>
+
+  
+</article>
+
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+            <div class="svg-icon">
+          
+<a href="mailto:zhbyak_whu@163.com"><i class="icon-envelope icon-2x"></i></a>
+
+
+<a href="https://github.com/zhbyak"><i class="icon-github icon-2x"></i></a>
+
+
+
+
+<a href="https://www.twitter.com/Zhbyak47"><i class="icon-twitter icon-2x"></i></a>
+
+
+
+
+            </div>
+        </footer>
+      </div>
+    </div>
+
+
+    
+
+  </body>
+</html>
